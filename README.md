@@ -1,8 +1,3 @@
----
-layout: cv
-title: Eralp Karaduman's CV
----
-
 # Eralp Karaduman
 Generalist Software Developer
 
