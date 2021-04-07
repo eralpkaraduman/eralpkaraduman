@@ -14,7 +14,7 @@ Generalist Software Developer
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Also made Android apps and Backends on the side
 - Tried my own startup for a brief time
-- Recently became a full stack web developer for 2+ years (react, nodejs)
+- Recently became a full stack web developer for 4+ years (react, psql, mongo, nodejs)
 - Before all I was a Flash developer when it used to be cool.
 - See below for code examples, open source personal projects.
 
@@ -109,8 +109,6 @@ _Senior Flash Developer & Team Leader_
 - `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
 
 - `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
-
-- `TypeScript, NodeJS` : [github.com/eralpkaraduman/unity-frontend-developer-assignment](https://github.com/eralpkaraduman/unity-frontend-developer-assignment)
 
 - `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
 
