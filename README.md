@@ -1,10 +1,10 @@
 # Eralp Karaduman
 Generalist Software Developer
 
-| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
-| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
-| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
-| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
+[eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)
+[eralpkaraduman.com](https://eralpkaraduman.com)
+[linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman)
+[twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)
 
 ## TLDR;
 
