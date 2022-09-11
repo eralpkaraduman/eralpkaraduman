@@ -1,26 +1,27 @@
 # Eralp Karaduman
 Generalist Software Developer
 
-- [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)
-- [eralpkaraduman.com](https://eralpkaraduman.com)
-- [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman)
-- [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)
+| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
+| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
+| __Blog__     | [eralp.dev](https://eralp.dev)                                           |
+| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
+| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
 
 ## TLDR;
 
-- 13+ years in software dev
-- Now working as consultant making web & mobile apps using React and React Native.
-- Worked in games industry on internal tools and infrastructure for 2 years.
+- 14+ years in software dev
+- Made web & mobile apps as a consultant using React, React Native and Flutter.
+- Full stack web developer for about 5+ years (react, psql, mongo, nodejs)
+- Worked in games industry on internal tools, CI/CD and infrastructure for about 2 years.
 - Mainly developed native iOS apps for about 6 years (swift, objc)
-- Also made Android apps and Backends on the side
-- Tried my own startup for a brief time
-- Recently became a full stack web developer for 4+ years (react, psql, mongo, nodejs)
-- Before all I was a Flash developer when it used to be cool.
+- Worked on my own startup for a brief time
+- I was a Adobe Flash, ActionScript 2/3 developer when it used to be cool.
+- I do technical writing at my blog [eralp.dev](eralp.dev), produce a comedy podcast and host live twitch shows about software development.
 - See below for code examples, open source personal projects.
 
 ## Currently
 
-Based in Helsinki, Finland. Working on mobile apps as a consultant.
+Based in Helsinki, Finland. Now working on mobile internal tools at an autonomus delivery robot company.
 
 
 ### Specialized in
@@ -40,9 +41,14 @@ __Kadir Has University, Computer Science & Statistics Ba.__
 
 ## Occupation
 
-`March 2019 - now`
+`June 2022 - now`
+__Starship Technologies__, Helsinki  
+_Senior Software Engineer_
+
+
+`March 2019 - June 2022`
 __Qvik__, Helsinki  
-_Senior Software Developer_
+_Principal Software Engineer_
 
 
 `Jan 2017 - February 2019`
@@ -98,9 +104,11 @@ _Senior Flash Developer & Team Leader_
 - Built websites and  advergames (Flash), 
 - Rich media campaigns combining electronics & software.
 - Early AR applications with Flash's c++ runtime.
-- Worked as team leader of  of 6 (2012)
+- Worked as team lead of 6 (2012)
 
 ## Projects & Code Examples
+
+- `React Native Web, Android`: [github.com/eralpkaraduman/card-quest](https://github.com/eralpkaraduman/card-quest)
 
 - `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/FlutterGameKid](https://github.com/eralpkaraduman/FlutterGameKid)
 
