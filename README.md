@@ -9,11 +9,11 @@ Generalist Software Developer
 
 ## TLDR;
 
-- 14+ years in software dev
+- 15+ years in software dev
 - Made web & mobile apps as a consultant using React, React Native and Flutter.
 - Full stack web developer for about 5+ years (react, psql, mongo, nodejs)
 - Worked in games industry on internal tools, CI/CD and infrastructure for about 2 years.
-- Mainly developed native iOS apps for about 6 years (swift, objc)
+- Developed native iOS apps for about 6 years (swift, objc)
 - Worked on my own startup for a brief time
 - I was a Adobe Flash, ActionScript 2/3 developer when it used to be cool.
 - I do technical writing at my blog [eralp.dev](eralp.dev), produce a comedy podcast and host live twitch shows about software development.
